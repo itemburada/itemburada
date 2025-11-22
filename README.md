@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/itemburada?tab=followers">
-    <img src="https://img.shields.io/github/followers/itemburada?label=Takipçi&style=for-the-badge" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/itemburada?label=Takip%C3%A7i&style=social" alt="GitHub followers" />
   </a>
   <a href="https://github.com/itemburada">
-    <img src="https://komarev.com/ghpvc/?username=itemburada&label=Ziyaretçi%20Sayısı&color=0e75b6&style=for-the-badge" alt="profil görüntüleme sayacı" />
+    <img src="https://komarev.com/ghpvc/?username=itemburada&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&color=0e75b6&style=for-the-badge" alt="profil görüntüleme sayacı" />
   </a>
 </p>
 
@@ -77,6 +77,5 @@
 
 - Profilimi beğendiysen, depolara **⭐ yıldız** bırakabilirsin.
 - Fikirlerin veya soruların varsa, bana dicord üzerinden mesaj bırakabilirsin.
-
 
 > _“Bugün yazdığın birkaç satır kod, yarın kurduğun hayalin temelini oluşturabilir.”_
