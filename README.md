@@ -59,7 +59,6 @@
   <img src="https://skillicons.dev/icons?i=ae" alt="Adobe After Effects" />
   <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" />
 </p>
----
 
 ## 📊 GitHub İstatistikleri
 
@@ -78,5 +77,6 @@
 
 - Profilimi beğendiysen, depolara **⭐ yıldız** bırakabilirsin.
 - Fikirlerin veya soruların varsa, bana dicord üzerinden mesaj bırakabilirsin.
+
 
 > _“Bugün yazdığın birkaç satır kod, yarın kurduğun hayalin temelini oluşturabilir.”_
