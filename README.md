@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Hakkımda
 
-Şu anda www.itemburada.com.tr ve bot.itemburada.com.tr sitelerini geliştirmekteyim. Ektra olarak https://www.itemsatis.com/p/itemburadaa sitesinde satış yapmaktayım.
+Şu anda www.itemburada.com.tr ve https://bot.itemburada.com.tr sitelerini geliştirmekteyim. Ektra olarak https://www.itemsatis.com/p/itemburadaa sitesinde satış yapmaktayım.
 
 ---
 
@@ -76,4 +76,5 @@
 
 
 > _“Bugün yazdığın birkaç satır kod, yarın kurduğun hayalin temelini oluşturabilir.”_
+
 
